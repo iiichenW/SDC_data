@@ -1,0 +1,541 @@
+source,target,value
+Switzerland,leather products (small),395
+Italy,leather products (small),305
+France,leather products (small),259
+Switzerland,leather products (small),254
+Switzerland,leather products (small),245
+Italy,leather products (small),224
+Switzerland,leather products (small),194
+France,leather products (small),166
+Switzerland,leather products (small),153
+Italy,leather products (small),152
+France,leather products (small),145
+Italy,leather products (small),144
+France,leather products (small),132
+United States,leather products (small),127
+Italy,leather products (small),124
+France,leather products (small),123
+France,leather products (small),121
+Australia,leather products (small),109
+Switzerland,leather products (small),107
+Germany,leather products (small),106
+Switzerland,leather products (small),105
+Italy,leather products (small),101
+Italy,leather products (small),99
+United States,leather products (small),97
+Thailand,leather products (small),91
+Switzerland,leather products (small),89
+Italy,leather products (small),88
+Thailand,leather products (small),87
+Singapore,leather products (small),86
+Singapore,skins,84
+France,leather products (small),82
+Singapore,leather products (small),81
+Thailand,leather products (small),79
+Italy,leather products (small),79
+France,leather products (small),78
+Singapore,leather products (small),74
+United Kingdom,leather products (small),74
+France,leather products (large),71
+Italy,skins,70
+Thailand,leather products (small),69
+Austria,leather products (small),67
+France,leather products (small),64
+Switzerland,leather products (small),63
+Italy,leather products (small),60
+Austria,leather products (small),59
+Italy,leather products (small),58
+Switzerland,leather products (small),56
+Italy,leather products (small),54
+Colombia,leather products (small),52
+South Korea,leather products (small),52
+Spain,leather products (small),51
+Italy,leather products (small),51
+Italy,leather products (small),50
+France,leather products (small),49
+United Kingdom,leather products (small),48
+Singapore,skins,48
+Singapore,skins,48
+Switzerland,leather products (small),47
+Italy,leather products (small),47
+Italy,skins,47
+United States,leather products (small),45
+France,leather products (large),43
+Japan,leather products (small),43
+South Africa,leather products (small),43
+Germany,leather products (small),43
+Singapore,leather products (small),42
+United States,leather products (small),42
+Spain,skins,42
+Indonesia,leather products (small),40
+United States,leather products (small),40
+South Korea,leather products (small),39
+Colombia,leather products (small),38
+Netherlands,leather products (small),38
+Germany,leather products (small),37
+France,skins,36
+Italy,skins,36
+Hong Kong SAR China,leather products (small),35
+United States,leather products (small),35
+Switzerland,leather products (small),35
+Italy,leather products (small),35
+South Africa,skins,35
+Austria,leather products (small),34
+South Korea,leather products (small),34
+Switzerland,leather products (small),34
+France,skins,34
+France,leather products (large),33
+Hong Kong SAR China,leather products (small),33
+Singapore,leather products (small),33
+Canada,skins,33
+Italy,leather products (large),32
+Italy,leather products (small),32
+Singapore,leather products (small),32
+Mexico,leather products (small),32
+Singapore,leather products (small),32
+United Kingdom,leather products (small),31
+Japan,leather products (small),30
+Spain,leather products (small),30
+Switzerland,leather products (small),30
+France,leather products (small),30
+United States,leather products (small),30
+Japan,leather products (small),30
+Italy,skins,30
+Switzerland,leather products (small),29
+Hong Kong SAR China,leather products (small),29
+Netherlands,leather products (small),29
+Brazil,leather products (small),29
+Switzerland,leather products (small),28
+Netherlands,leather products (small),27
+Spain,leather products (small),27
+Japan,leather products (small),27
+Italy,leather products (small),27
+France,leather products (small),27
+Italy,skins,27
+Canada,skins,27
+France,leather products (large),26
+France,leather products (large),26
+France,leather products (small),26
+United Kingdom,leather products (small),26
+United States,leather products (small),26
+United States,skins,26
+Colombia,skins,26
+Switzerland,leather products (small),25
+Japan,leather products (small),25
+Italy,leather products (small),25
+Germany,leather products (small),25
+Australia,skins,25
+Australia,leather products (small),24
+Italy,leather products (small),24
+Italy,leather products (small),24
+Italy,leather products (small),24
+Turkey,leather products (small),24
+Singapore,skins,24
+Singapore,skins,24
+Spain,leather products (small),23
+Singapore,leather products (small),23
+Italy,leather products (small),23
+Thailand,leather products (small),23
+United Kingdom,leather products (small),22
+China,leather products (small),22
+Spain,leather products (small),22
+France,skins,22
+China,leather products (small),21
+Mexico,leather products (small),21
+United Arab Emirates,leather products (small),21
+Mexico,leather products (small),21
+United States,leather products (small),21
+Italy,leather products (large),20
+Italy,leather products (large),20
+Italy,leather products (large),20
+Thailand,leather products (small),20
+Italy,leather products (small),20
+United States,skins,20
+France,skins,20
+South Korea,leather products (small),19
+France,leather products (small),19
+Netherlands,leather products (small),19
+Japan,leather products (small),19
+United Kingdom,leather products (small),19
+Italy,skins,19
+Malaysia,leather products (small),18
+Mexico,leather products (small),18
+Italy,leather products (small),18
+Indonesia,leather products (small),18
+Germany,leather products (small),18
+Germany,leather products (small),18
+Canada,skins,18
+Canada,skins,18
+Singapore,skins,18
+France,skins,18
+Italy,leather products (large),17
+United States,leather products (large),17
+Taiwan,leather products (small),17
+Malaysia,leather products (small),17
+United States,leather products (small),17
+Spain,leather products (small),17
+China,leather products (small),17
+South Korea,leather products (small),17
+Switzerland,leather products (small),17
+Thailand,leather products (small),17
+Senegal,leather products (small),17
+France,leather products (small),17
+Spain,leather products (small),17
+Singapore,skins,17
+South Korea,skins,17
+Japan,skins,17
+Singapore,skins,17
+Thailand,skins,17
+Indonesia,skins,17
+South Korea,skins,17
+Italy,skins,17
+Hong Kong SAR China,leather products (small),16
+China,leather products (small),16
+Switzerland,leather products (small),16
+Philippines,leather products (small),16
+Vietnam,leather products (small),16
+China,leather products (small),16
+Indonesia,leather products (small),16
+Japan,leather products (small),16
+Mexico,leather products (small),16
+Bolivia,skins,16
+Zimbabwe,skins,16
+Vietnam,skins,16
+Indonesia,skins,16
+France,leather products (large),15
+Japan,leather products (small),15
+Indonesia,leather products (small),15
+Indonesia,leather products (small),15
+Hong Kong SAR China,leather products (small),15
+Philippines,leather products (small),15
+Switzerland,skins,15
+Japan,skins,15
+South Korea,skins,15
+Brazil,leather products (large),14
+Brazil,leather products (large),14
+Denmark,leather products (small),14
+Portugal,leather products (small),14
+Singapore,leather products (small),14
+Spain,leather products (small),14
+Colombia,leather products (small),14
+Netherlands,leather products (small),14
+United Arab Emirates,leather products (small),14
+United Kingdom,leather products (small),14
+South Korea,leather products (small),14
+Canada,skins,14
+Switzerland,skins,14
+Italy,leather products (large),13
+Switzerland,leather products (large),13
+Italy,leather products (large),13
+Switzerland,leather products (large),13
+Bolivia,leather products (small),13
+Germany,leather products (small),13
+South Korea,leather products (small),13
+Italy,leather products (small),13
+Hong Kong SAR China,leather products (small),13
+Mexico,leather products (small),13
+Spain,leather products (small),13
+Netherlands,leather products (small),13
+South Korea,skins,13
+Indonesia,skins,13
+Singapore,skins,13
+Argentina,skins,13
+United States,skins,13
+United States,leather products (large),12
+Singapore,leather products (small),12
+Senegal,leather products (small),12
+United Arab Emirates,leather products (small),12
+Singapore,leather products (small),12
+United States,leather products (small),12
+Italy,leather products (small),12
+South Korea,leather products (small),12
+Hong Kong SAR China,leather products (small),12
+Italy,skins,12
+Malaysia,skins,12
+Macau SAR China,leather products (small),11
+Thailand,leather products (small),11
+China,leather products (small),11
+Italy,leather products (small),11
+Netherlands,leather products (small),11
+Hong Kong SAR China,leather products (small),11
+Spain,leather products (small),11
+United Arab Emirates,leather products (small),11
+Colombia,leather products (small),11
+Thailand,leather products (small),11
+Italy,leather products (small),11
+Senegal,leather products (small),11
+Thailand,skins,11
+Peru,skins,11
+Spain,skins,11
+Japan,skins,11
+Italy,skins,11
+leather products (small),Alligator mississippiensis,395
+leather products (small),Python reticulatus,305
+leather products (small),Python reticulatus,259
+leather products (small),Python reticulatus,254
+leather products (small),Crocodylus niloticus,245
+leather products (small),Crocodylus niloticus,224
+leather products (small),Varanus niloticus,194
+leather products (small),Crocodylus porosus,166
+leather products (small),Crocodylus porosus,153
+leather products (small),Crocodylus porosus,152
+leather products (small),Alligator mississippiensis,145
+leather products (small),Python bivittatus,144
+leather products (small),Python bivittatus,132
+leather products (small),Alligator mississippiensis,127
+leather products (small),Alligator mississippiensis,124
+leather products (small),Varanus niloticus,123
+leather products (small),Crocodylus niloticus,121
+leather products (small),Crocodylus porosus,109
+leather products (small),Caiman crocodilus fuscus,107
+leather products (small),Alligator mississippiensis,106
+leather products (small),Varanus salvator,105
+leather products (small),Varanus salvator,101
+leather products (small),Caiman crocodilus,99
+leather products (small),Python reticulatus,97
+leather products (small),Caiman crocodilus fuscus,91
+leather products (small),Python bivittatus,89
+leather products (small),Python brongersmai,88
+leather products (small),Crocodylus siamensis,87
+leather products (small),Crocodylus niloticus,86
+skins,Crocodylus niloticus,84
+leather products (small),Varanus salvator,82
+leather products (small),Alligator mississippiensis,81
+leather products (small),Crocodylus niloticus,79
+leather products (small),Varanus niloticus,79
+leather products (small),Python brongersmai,78
+leather products (small),Python reticulatus,74
+leather products (small),Python reticulatus,74
+leather products (large),Python reticulatus,71
+skins,Python reticulatus,70
+leather products (small),Alligator mississippiensis,69
+leather products (small),Alligator mississippiensis,67
+leather products (small),Caiman crocodilus,64
+leather products (small),Caiman crocodilus crocodilus,63
+leather products (small),Caiman crocodilus fuscus,60
+leather products (small),Varanus niloticus,59
+leather products (small),Python breitensteini,58
+leather products (small),Salvator merianae,56
+leather products (small),Caiman crocodilus crocodilus,54
+leather products (small),Caiman crocodilus fuscus,52
+leather products (small),Python reticulatus,52
+leather products (small),Python reticulatus,51
+leather products (small),Salvator merianae,51
+leather products (small),Ptyas mucosus,50
+leather products (small),Python breitensteini,49
+leather products (small),Alligator mississippiensis,48
+skins,Crocodylus porosus,48
+skins,Python reticulatus,48
+leather products (small),Eunectes notaeus,47
+leather products (small),Salvator rufescens,47
+skins,Crocodylus niloticus,47
+leather products (small),Crocodylus niloticus,45
+leather products (large),Python bivittatus,43
+leather products (small),Crocodylus niloticus,43
+leather products (small),Crocodylus niloticus,43
+leather products (small),Python reticulatus,43
+leather products (small),Crocodylus porosus,42
+leather products (small),Varanus niloticus,42
+skins,Python reticulatus,42
+leather products (small),Python reticulatus,40
+leather products (small),Varanus salvator,40
+leather products (small),Alligator mississippiensis,39
+leather products (small),Python reticulatus,38
+leather products (small),Python reticulatus,38
+leather products (small),Crocodylus niloticus,37
+skins,Crocodylus porosus,36
+skins,Python bivittatus,36
+leather products (small),Alligator mississippiensis,35
+leather products (small),Caiman crocodilus,35
+leather products (small),Salvator rufescens,35
+leather products (small),Tayassu pecari,35
+skins,Crocodylus niloticus,35
+leather products (small),Caiman crocodilus fuscus,34
+leather products (small),Crocodylus niloticus,34
+leather products (small),Ptyas mucosus,34
+skins,Crocodylus niloticus,34
+leather products (large),Crocodylus porosus,33
+leather products (small),Python reticulatus,33
+leather products (small),Varanus niloticus,33
+skins,Lynx rufus,33
+leather products (large),Crocodylus niloticus,32
+leather products (small),Crocodylus novaeguineae,32
+leather products (small),Python bivittatus,32
+leather products (small),Python reticulatus,32
+leather products (small),Varanus salvator,32
+leather products (small),Crocodylus porosus,31
+leather products (small),Alligator mississippiensis,30
+leather products (small),Alligator mississippiensis,30
+leather products (small),Caiman crocodilus,30
+leather products (small),Caiman crocodilus fuscus,30
+leather products (small),Caiman crocodilus fuscus,30
+leather products (small),Crocodylus novaeguineae,30
+skins,Alligator mississippiensis,30
+leather products (small),Caiman crocodilus yacare,29
+leather products (small),Crocodylus niloticus,29
+leather products (small),Python bivittatus,29
+leather products (small),Python reticulatus,29
+leather products (small),Naja sputatrix,28
+leather products (small),Alligator mississippiensis,27
+leather products (small),Crocodylus niloticus,27
+leather products (small),Crocodylus porosus,27
+leather products (small),Crocodylus siamensis,27
+leather products (small),Salvator merianae,27
+skins,Crocodylus porosus,27
+skins,Lynx canadensis,27
+leather products (large),Alligator mississippiensis,26
+leather products (large),Crocodylus niloticus,26
+leather products (small),Caiman crocodilus crocodilus,26
+leather products (small),Python bivittatus,26
+leather products (small),Salvator merianae,26
+skins,Alligator mississippiensis,26
+skins,Caiman crocodilus fuscus,26
+leather products (small),Python brongersmai,25
+leather products (small),Python reticulatus,25
+leather products (small),Tupinambis teguixin,25
+leather products (small),Varanus niloticus,25
+skins,Crocodylus porosus,25
+leather products (small),Alligator mississippiensis,24
+leather products (small),Eunectes notaeus,24
+leather products (small),Naja sputatrix,24
+leather products (small),Python curtus,24
+leather products (small),Python reticulatus,24
+skins,Alligator mississippiensis,24
+skins,Varanus salvator,24
+leather products (small),Caiman crocodilus,23
+leather products (small),Caiman crocodilus fuscus,23
+leather products (small),Caiman latirostris,23
+leather products (small),Crocodylus hybrid,23
+leather products (small),Crocodylus niloticus,22
+leather products (small),Python reticulatus,22
+leather products (small),Varanus salvator,22
+skins,Alligator mississippiensis,22
+leather products (small),Alligator mississippiensis,21
+leather products (small),Alligator mississippiensis,21
+leather products (small),Alligator mississippiensis,21
+leather products (small),Caiman crocodilus fuscus,21
+leather products (small),Python bivittatus,21
+leather products (large),Alligator mississippiensis,20
+leather products (large),Crocodylus porosus,20
+leather products (large),Python reticulatus,20
+leather products (small),Crocodylus porosus,20
+leather products (small),Pecari tajacu,20
+skins,Lynx rufus,20
+skins,Python reticulatus,20
+leather products (small),Caiman crocodilus fuscus,19
+leather products (small),Ptyas mucosus,19
+leather products (small),Python brongersmai,19
+leather products (small),Varanus niloticus,19
+leather products (small),Varanus salvator,19
+skins,Python brongersmai,19
+leather products (small),Alligator mississippiensis,18
+leather products (small),Crocodylus niloticus,18
+leather products (small),Loxodonta africana,18
+leather products (small),Naja sputatrix,18
+leather products (small),Python bivittatus,18
+leather products (small),Python brongersmai,18
+skins,Canis lupus,18
+skins,Lontra canadensis,18
+skins,Python brongersmai,18
+skins,Varanus niloticus,18
+leather products (large),Caiman crocodilus crocodilus,17
+leather products (large),Python reticulatus,17
+leather products (small),Alligator mississippiensis,17
+leather products (small),Crocodylus niloticus,17
+leather products (small),Crocodylus porosus,17
+leather products (small),Ptyas mucosus,17
+leather products (small),Python bivittatus,17
+leather products (small),Python bivittatus,17
+leather products (small),Python curtus,17
+leather products (small),Python reticulatus,17
+leather products (small),Python sebae,17
+leather products (small),Salvator rufescens,17
+leather products (small),Salvator rufescens,17
+skins,Caiman crocodilus fuscus,17
+skins,Crocodylus niloticus,17
+skins,Crocodylus porosus,17
+skins,Crocodylus siamensis,17
+skins,Crocodylus siamensis,17
+skins,Python reticulatus,17
+skins,Python reticulatus,17
+skins,Varanus salvator,17
+leather products (small),Caiman crocodilus,16
+leather products (small),Crocodylus niloticus,16
+leather products (small),Python breitensteini,16
+leather products (small),Python reticulatus,16
+leather products (small),Python reticulatus,16
+leather products (small),Varanus salvator,16
+leather products (small),Varanus salvator,16
+leather products (small),Varanus salvator,16
+leather products (small),Varanus salvator,16
+skins,Caiman crocodilus,16
+skins,Crocodylus niloticus,16
+skins,Python bivittatus,16
+skins,Varanus salvator,16
+leather products (large),Varanus salvator,15
+leather products (small),Caiman crocodilus,15
+leather products (small),Crocodylus novaeguineae,15
+leather products (small),Python brongersmai,15
+leather products (small),Varanus niloticus,15
+leather products (small),Varanus salvator,15
+skins,Alligator mississippiensis,15
+skins,Crocodylus niloticus,15
+skins,Python bivittatus,15
+leather products (large),Arapaima gigas,14
+leather products (large),Caiman crocodilus,14
+leather products (small),Alligator mississippiensis,14
+leather products (small),Alligator mississippiensis,14
+leather products (small),Caiman crocodilus crocodilus,14
+leather products (small),Python bivittatus,14
+leather products (small),Python breitensteini,14
+leather products (small),Python breitensteini,14
+leather products (small),Python reticulatus,14
+leather products (small),Varanus niloticus,14
+leather products (small),Varanus salvator,14
+skins,Ursus americanus,14
+skins,Varanus salvator,14
+leather products (large),Caiman crocodilus,13
+leather products (large),Crocodylus niloticus,13
+leather products (large),Python bivittatus,13
+leather products (large),Python reticulatus,13
+leather products (small),Caiman crocodilus,13
+leather products (small),Caiman crocodilus,13
+leather products (small),Crocodylus porosus,13
+leather products (small),Daboia russelii,13
+leather products (small),Python bivittatus,13
+leather products (small),Salvator merianae,13
+leather products (small),Salvator merianae,13
+leather products (small),Varanus salvator,13
+skins,Alligator mississippiensis,13
+skins,Crocodylus novaeguineae,13
+skins,Crocodylus novaeguineae,13
+skins,Lycalopex griseus,13
+skins,Python reticulatus,13
+leather products (large),Alligator mississippiensis,12
+leather products (small),Caiman crocodilus,12
+leather products (small),Crocodylus niloticus,12
+leather products (small),Crocodylus niloticus,12
+leather products (small),Crocodylus novaeguineae,12
+leather products (small),Python brongersmai,12
+leather products (small),Python sebae,12
+leather products (small),Varanus niloticus,12
+leather products (small),Varanus salvator,12
+skins,Caiman crocodilus,12
+skins,Python reticulatus,12
+leather products (small),Alligator mississippiensis,11
+leather products (small),Caiman crocodilus crocodilus,11
+leather products (small),Caiman crocodilus fuscus,11
+leather products (small),Crocodylus acutus,11
+leather products (small),Crocodylus novaeguineae,11
+leather products (small),Crocodylus porosus,11
+leather products (small),Crocodylus porosus,11
+leather products (small),Crocodylus porosus,11
+leather products (small),Naja sputatrix,11
+leather products (small),Python bivittatus,11
+leather products (small),Python molurus,11
+leather products (small),Varanus niloticus,11
+skins,Caiman crocodilus fuscus,11
+skins,Pecari tajacu,11
+skins,Python bivittatus,11
+skins,Python reticulatus,11
+skins,Varanus niloticus,11
